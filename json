@@ -1,1 +1,30 @@
-ldldl
+[
+  {
+    "nome":"Paolo",
+    "cognome:"Rossi",
+    "Telefono":"0175-64747",
+    "cap":12039,
+    "email":"paolo@gmail.com"
+  },
+   {
+    "nome":"Simone",
+    "cognome:"Bianchi",
+    "Telefono":"0174-393993",
+    "cap":12039,
+    "email":"simone@gmail.com"
+  },
+    {
+    "nome":"Lucia",
+    "cognome:"Verdi",
+    "Telefono":"0174-299292",
+    "cap":12036,
+    "email":"lucia@yahoo.com"
+  },
+    {
+    "nome":"Marco",
+    "cognome:"Nero",
+    "Telefono":"0172-101010",
+    "cap":12036,
+    "email":"marco@yahoo.com"
+  },
+]
