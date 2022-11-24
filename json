@@ -4,7 +4,7 @@
     "cognome":"Rossi",
     "Telefono":"0175-64747",
     "cap":12039,
-    "citta","Verzuolo",
+    "citta":"Verzuolo",
     "email":"paolo@gmail.com"
   },
    {
@@ -12,7 +12,7 @@
     "cognome":"Bianchi",
     "Telefono":"0174-393993",
     "cap":12039,
-    "citta","Mondovì",
+    "citta":"Mondovì",
     "email":"simone@gmail.com"
   },
     {
@@ -20,7 +20,7 @@
     "cognome":"Verdi",
     "Telefono":"0174-299292",
     "cap":12036,
-    "citta","Mondovì",
+    "citta":"Mondovì",
     "email":"lucia@yahoo.com"
   },
     {
@@ -28,7 +28,7 @@
     "cognome":"Nero",
     "Telefono":"0172-101010",
     "cap":12036,
-    "citta","Savigliano",
+    "citta":"Savigliano",
     "email":"marco@yahoo.com"
   }
 ]
