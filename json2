@@ -1,0 +1,39 @@
+[
+  {
+    "marca":"ASUS",
+    "modello":"scheda madre",
+    "giacenza":12,
+    "prezzo":199
+  },
+  {
+    "marca":"Kingston",
+    "modello":"RAM",
+    "giacenza":1,
+    "prezzo":49
+  },
+    {
+    "marca":"Asus",
+    "modello":"Scheda Video",
+    "giacenza":2,
+    "prezzo":1149
+  },
+    {
+    "marca":"Antec",
+    "modello":"Vortex 360 ARGB",
+    "giacenza":10,
+    "prezzo":119
+  },
+    {
+    "marca":"Asus",
+    "modello":"Tuf Gaming TF120",
+    "giacenza":2,
+    "prezzo":109
+  },
+    {
+    "marca":"Cooler Master",
+    "modello":"Kit 3 ventole Masterfan",
+    "giacenza":7,
+    "prezzo":46
+  }
+  
+]
