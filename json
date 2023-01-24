@@ -8,7 +8,7 @@
             "fisso":"222222222"
         },
         "email":"mario.rossi@gmail.com",
-        "foto":"https://www.topolino.it/wp-content/uploads/2019/11/minni_intera.png"
+        "foto":"https://www.topolino.it/wp-content/uploads/2019/11/eli_squick_intera-400x400.png"
     },
     {
         "nome":"Simona",
@@ -19,6 +19,50 @@
             "fisso":"444444444"
         },
         "email":"simona.verdi@gmail.com",
-        "foto":"https://cdn.nospoiler.it/storage/images/2a49ef4d-83c7-441f-9e58-e3bfafb21c46.jpg"
+        "foto":"https://www.topolino.it/wp-content/uploads/2019/11/clarabella_intera-400x400.png"
+    },
+    {
+        "nome":"Paolo",
+        "cognome":"Nero",
+        "telefono":{
+            "cellulare":"5555555",
+            "fax":"66666666",
+            "fisso":"7777777777"
+        },
+        "email":"paolo.nero@gmail.com",
+        "foto":"https://www.topolino.it/wp-content/uploads/2019/11/capitano_setter_intera-400x400.png"
+    },
+    {
+        "nome":"Lucia",
+        "cognome":"Blu",
+        "telefono":{
+            "cellulare":"9999999",
+            "fax":"12345343",
+            "fisso":"34444432"
+        },
+        "email":"lucia.blu@gmail.com",
+        "foto":"https://www.topolino.it/wp-content/uploads/2019/11/eurasia_tost_intera-400x400.png"
+    },
+    {
+        "nome":"Giovanni",
+        "cognome":"Marrone",
+        "telefono":{
+            "cellulare":"93939349",
+            "fax":"94949494",
+            "fisso":"91234848"
+        },
+        "email":"giovanni.marrone@gmail.com",
+        "foto":"https://www.topolino.it/wp-content/uploads/2019/11/fiuto_joe_intera-400x400.png"
+    },
+    {
+        "nome":"Monica",
+        "cognome":"Giallo",
+        "telefono":{
+            "cellulare":"9459494",
+            "fax":"494949493",
+            "fisso":"93939393939"
+        },
+        "email":"monica.giallo@gmail.com",
+        "foto":"https://www.topolino.it/wp-content/uploads/2019/11/nocciola_intera-400x400.png"
     }
 ]
