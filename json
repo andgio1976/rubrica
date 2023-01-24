@@ -1,34 +1,24 @@
 [
-  {
-    "nome":"Paolo",
-    "cognome":"Rossi",
-    "Telefono":"0175-64747",
-    "cap":12039,
-    "citta":"Verzuolo",
-    "email":"paolo@gmail.com"
-  },
-   {
-    "nome":"Simone",
-    "cognome":"Bianchi",
-    "Telefono":"0174-393993",
-    "cap":12039,
-    "citta":"Mondovì",
-    "email":"simone@gmail.com"
-  },
     {
-    "nome":"Lucia",
-    "cognome":"Verdi",
-    "Telefono":"0174-299292",
-    "cap":12036,
-    "citta":"Mondovì",
-    "email":"lucia@yahoo.com"
-  },
+        "nome":"Mario",
+        "cognome":"Rossi",
+        "telefono":{
+            "cellulare":"3333333",
+            "fax":"111111",
+            "fisso":"222222222"
+        },
+        "email":"mario.rossi@gmail.com",
+        "foto":"https://cdn.nospoiler.it/storage/images/56107fd0-1d99-41c5-ace0-78c8a7ef63b1.gif"
+    },
     {
-    "nome":"Marco",
-    "cognome":"Nero",
-    "Telefono":"0172-101010",
-    "cap":12036,
-    "citta":"Savigliano",
-    "email":"marco@yahoo.com"
-  }
+        "nome":"Simona",
+        "cognome":"Verdi",
+        "telefono":{
+            "cellulare":"222222",
+            "fax":"3333333",
+            "fisso":"444444444"
+        },
+        "email":"simona.verdi@gmail.com",
+        "foto":"https://cdn.nospoiler.it/storage/images/2a49ef4d-83c7-441f-9e58-e3bfafb21c46.jpg"
+    }
 ]
